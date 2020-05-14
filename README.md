@@ -1,4 +1,4 @@
-# Ethereum Tutorial based on 
+# Ethereum Tutorial based on Web3.js
 
 
 * [Tutorial link](https://www.trufflesuite.com/tutorials/pet-shop)
